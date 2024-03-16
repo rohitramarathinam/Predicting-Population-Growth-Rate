@@ -1,0 +1,15 @@
+People and Society: Birth rate
+People and Society: Total fertility rate
+People and Society: Death rate
+People and Society: Life expectancy at birth - total population
+People and Society: Net migration rate
+People and Society: Infant mortality rate - total
+People and Society: Sex ratio - total population
+People and Society: Gross reproduction rate
+Economy: Unemployment rate
+Environment: Land use - agricultural land
+Environment: Urbanization - urban population
+People and Society: Currently married women (ages 15-49)
+Geography: Area - total
+People and Society: Population
+People and Society: Median age - total
